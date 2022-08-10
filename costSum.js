@@ -26,4 +26,4 @@ function pandaCost (সিঙ্গারা, সমুচা, জিলাপ�
 
 }
 
-console.log(pandaCost(1,1,1))
+console.log(pandaCost(1,1,1));
